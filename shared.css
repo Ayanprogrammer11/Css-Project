@@ -17,6 +17,7 @@ body {
     width: 100%;
     padding: 8px 16px;
     background-color: #2ddf5c;
+    position: fixed;
 }
 
 .main-header > div {
