@@ -18,6 +18,9 @@ body {
     padding: 8px 16px;
     background-color: #2ddf5c;
     position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
 }
 
 .main-header > div {
@@ -30,6 +33,12 @@ body {
     font-weight: bold;
     text-decoration: none;
     font-size: 22px;
+    display: inline-block;
+    height: 22px;
+}
+
+.main-header__brand img {
+    height: 100%;
 }
 
 .main-nav {
