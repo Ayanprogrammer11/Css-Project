@@ -8,12 +8,13 @@
 body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
+    /* width: 100%; */
 }
 
 .backdrop {
     background: rgba(0, 0, 0, 0.3);
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     position: fixed;
     z-index: 100;
     top: 0;
@@ -26,7 +27,7 @@ body {
 
 .main-header {
     width: 100%;
-    padding: 8px 16px;
+    padding: 0.5rem 1rem;
     background-color: #2ddf5c;
     position: fixed;
     top: 0;
@@ -43,9 +44,9 @@ body {
     color: #0e4f1f;
     font-weight: bold;
     text-decoration: none;
-    font-size: 22px;
+    font-size: 1.375rem;
     display: inline-block;
-    height: 22px;
+    height: 1.375rem;
 }
 
 .main-header__brand img {
@@ -55,7 +56,7 @@ body {
 .main-nav {
     display: inline-block;
     text-align: right;
-    width: calc(100% - 74px);
+    width: calc(100% - 4.625rem);
     vertical-align: middle;
 }
 
@@ -67,14 +68,14 @@ body {
 
 .main-nav__item {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 0.625rem;
 }
 
 .main-nav__item a {
     color: #0e4f1f;
     text-decoration: none;
     font-weight: bold;
-    padding: 3px 0;
+    padding: 0.1875rem 0;
 }
 
 .main-nav__item a:hover,
@@ -86,7 +87,7 @@ body {
 .main-nav__item--cta a {
     color: white;
     background-color: #ff1b68;
-    padding: 8px 16px;
+    padding: 0.5rem 1rem;
     border-radius: 10px;
 }
 
@@ -107,8 +108,8 @@ body {
     font: inherit;
     border: none;
     border-radius: 8px;
-    padding: 8px;
-    margin: 5px;
+    padding: 0.5rem;
+    margin: 0.3125rem;
     cursor: pointer;
     font-weight: bold;
 }
@@ -127,8 +128,8 @@ body {
 
 .main-footer {
     background: black;
-    padding: 32px;
-    margin-top: 48px;
+    padding: 2rem;
+    margin-top: 3rem;
 }
 
 .main-footer__links {
@@ -144,7 +145,7 @@ body {
 
 .main-footer__link a {
     text-decoration: none;
-    margin: 0 20px;
+    margin: 0 1.25rem;
     color: white;
     font-weight: bold;
 }
