@@ -1,0 +1,243 @@
+Agent: 
+Hello Ayan,
+
+
+Thank you for reaching out to us!
+
+
+How may I assist you?
+
+
+Customer:
+My Programming assignment is not graded correctly
+
+Agent:
+I understand your concern about the grading of your assignment.
+
+
+Please allow me a moment. I will open your account. Thank you.
+
+
+Customer:
+I am an experienced web developer who is taking this course only to get certificate i can assure you i did it correctly
+
+Agent:
+Thank you for bringing this to our attention!
+
+
+Did you get any error when you submitted it?
+
+Customer:
+yeah i got only 77%
+
+73 sorry
+
+Agent:
+Thank you.
+
+
+Please allow me a moment. I will check some options at our end. Thank you.
+
+
+Customer:
+so what should i do i cant get a certificate without completing all the assignments
+
+
+Agent:
+I understand your concern, but, all graded assignments should have a grade so the system generates the full grade for the course. All assignments must be completed.
+
+
+I was checking the assignment information and it is allowed to make three attempts every 8 hours.
+
+
+Have you attempted other submissions and you get the same grade?
+
+Customer: 
+Not the same grade it was different but below 80%, I did it all correctly you can even check my submission. The algorithm for grading is not working properly
+
+Agent:
+Another option is that you enter your inquiry in the Discussion Forums of the course and a member of the Staff will assist you. https://www.coursera.org/learn/introduction-to-front-end-...
+
+Customer:
+But there is a problem with algorithm i can assure that I am correct and the stupid algorithm is wrong
+
+do you know css?
+
+Agent:
+Other learners submitted their comments in the Discussion Forums and they are assisted by the Staff.
+
+
+I am afraid our Help Center is devoted to technical issues within our platform, courses and accounts. We are no content experts on any course and we would be unable to address this situation as an expert would do. In this case, I highly recommend to visit your course's forums and ask for assistance there.
+
+Customer:
+the worst company i have evr seen who can't even grade a simple css submission correctly
+
+Agent:
+We work with different Partner Institutions worldwide and Meta is one of them. We assist with issues in our platform but Meta manages the course content.
+
+Customer:
+Then it means that you people don't review the course by your team experts before it is live on coursera it means that anyone can post anything?
+
+Agent:
+Coursera works in Partnership with Meta. All courses are reviewed by our teams to work properly regarding access to content, videos and readings that all material is complete and working well.
+
+
+About grading is managed by the Partner Institution. You can enter your comment in the Discussion Forums. The Staff will assist you.
+
+Customer: 
+Then whats this wrong grading case? Can you please tell me is it a built-in algorithm or instructor algorithm
+
+Agent:
+You have Financial Aid for this course and you have 180 days to complete the course.
+
+
+We will appreciate entering this comment in the Discussion Forums, it will go directly to Meta and they will assist you.
+
+Customer: 
+I know i have 180 days
+
+Okay let me try in discussion forums
+
+Agent:
+Thank you.
+
+
+Is there anything else that we can assist you with?
+
+Customer:
+yes
+
+Do I need to Complete all the video lectures to gain certificate or only assignments and quizes
+
+Agent:
+Only assignments and quizzes to get the full grade, but, sometimes, if you do not complete a previous activity to the quiz, it is locked.
+
+
+It will depend on the course content.
+
+
+I suggest you enter your comment in the Discussion Forums, skip the assignment and continue with the coursework.
+
+
+Once you get a response from the Staff, you will be able to complete the assignment.
+
+Customer:
+Oh okay and one more question!
+
+This course is part of the Meta frontend developer specialization, if i get a financial aid on each of these courses and complete all of them, then will i get a SPECIALIZATION CERTIFICATE?
+
+Agent:
+Yes, you can apply for Financial Aid for all the courses of the Specialization and once all of them are completed and passed, the system generates the Certificate for the full Specialization.
+
+Customer:
+thats good can i ask one more question if you don't mind
+
+If i do courses in the specialization in a random order and at the end i complete all the courses in that specialization then will i get SPECIALIZATION CERTIFICATE?
+
+Agent:
+About the order of the courses, sometimes, you need to complete the previous course to access the next one. You can try, it will depend on Meta that you access the course in a different order.
+
+
+Yes, you will get a Full Certificate after completing all the courses of the Specialization.
+
+Customer: 
+can you please check if meta allows to do courses in a specialization in a random order
+
+Agent:
+I am afraid, I cannot do that as it will be given to you then you enroll in the courses.
+
+Customer: 
+"I cannot do that as it will be given to you then you enroll in the courses." I can't understand this use easier wording
+
+Agent: 
+I mean, I cannot verify if the courses must be taken in a specific order.
+
+
+I see you have applied for Financial Aid for four of the courses of this Specialization. Once you have the resolution of them, you can try enrolling in them to complete them. If you have access them in different order, you can go ahead and complete them.
+
+
+I do not want to give you incorrect information.
+
+
+We are not experts in course content or management that only our Partner Institutions have.
+
+
+For example, sometimes, you start a Specialization, you being with the first course and if it has six or seven courses, some of them are launched while you complete the first one.
+
+Customer:
+So the conclusion is "If i complete all the courses in the specialization in a random order and get good grades then i will get a SPECIALIZATION CERTIFICATE" thats what i could conclude from your responses right?
+
+Agent:
+No, I cannot assure you that you can take the courses in random order.
+
+Customer:
+Then it was a time waste for me to have completed more than 30% of the course:(
+
+okay bye
+
+Agent:
+I am sorry for the confusion, but you are in the first course of the Specialization that is Introduction to Front-End Development.
+
+Customer:
+Thats what i am saying i have completed more than 30% of the first course
+
+Agent:
+You will be assisted by the course Staff. Please enter your inquiry in the Discussion Forums.
+
+
+Have a nice day!
+
+
+Good-bye
+
+Customer:
+not have a nice day
+
+wait
+
+you are just running away
+
+be patient
+
+Agent:
+I apologize, I understood you had said bye.
+
+Customer:
+good excuse though. Okay clear my last doubt
+
+If my course has passed 180 days which was approved by financial aid then i would not get thecertificate?
+
+Agent:
+The Financial Aid expires after 180 days. You will need to resubmit an application for Financial Aid to complete the course.
+
+Customer:
+will the course start from start when i re-apply for financial aid?
+
+OR will it start from where i left?
+
+Agent:
+The coursework is saved in your account. You do not have to redo the work.
+
+Customer:
+oh okay it means that i can re-apply the financial aid of the course which has expired the 180days mark right?
+
+Agent:
+Yes, you are right!
+
+thanks for your guidance
+
+bye
+
+and sorry for that deep questions that i ask and if you feel anything sad what i say then sorry
+
+Agent:
+Have a nice day!
+
+
+Good-bye
+
+
+Thank you for chatting with us at customer support!
+
+Customer:
+bye
