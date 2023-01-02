@@ -11,6 +11,11 @@ body {
     /* width: 100%; */
 }
 
+main {
+    min-height: calc(100vh - 3.5rem - 8rem);
+    margin-top: 3.5rem;
+}
+
 .backdrop {
     background: rgba(0, 0, 0, 0.3);
     width: 100vw;
@@ -68,9 +73,10 @@ body {
     color: #0e4f1f;
     font-weight: bold;
     text-decoration: none;
-    font-size: 1.375rem;
+    /* font-size: 1.375rem; */
+    height: 2.5rem;
     display: inline-block;
-    height: 1.375rem;
+    /* height: 1.375rem; */
     vertical-align: middle;
 }
 
@@ -79,10 +85,19 @@ body {
 }
 
 .main-nav {
-    display: inline-block;
+    display: none;
     text-align: right;
-    width: calc(100% - 122px);
+    width: calc(100% - 44px);
     vertical-align: middle;
+}
+
+@media (min-width: 40rem) {
+    .main-nav {
+        display: inline-block;
+    }
+    .toggle-button {
+        display: none;
+    }
 }
 
 .main-nav__items {
@@ -142,7 +157,7 @@ body {
 
 .mobile-nav__items {
     list-style: none;
-    margin: 10% auto;
+    margin: 14rem auto;
     padding: 0;
     text-align: center;
     width: 90%;
@@ -150,12 +165,30 @@ body {
 }
 
 .mobile-nav__item {
-    margin: 1rem 0;
+    margin: 2rem 0;
 }
 
 .mobile-nav__item a {
     font-size: 1.5rem;
 }
+/* 
+.hide-nav-button {
+    display: none;
+    background: transparent;
+    cursor: pointer;
+    position: fixed;
+    z-index: 102;
+    top: 0;
+    right: 0;
+    border: none;
+}
+
+.hide-nav-button svg {
+    stroke: red;
+    stroke-width: 2;
+} */
+
+
 
 
 /* Buttons */
@@ -213,6 +246,21 @@ body {
 .main-footer__link a:active {
     color: #ccc;
 }
+
+/* @media (max-width: 461px) {
+    .hide-nav-button {
+        display: initial;
+    }
+    .mobile-nav {
+        width: 100vw;
+    }
+    .mobile-nav__item {
+        margin-top: 3rem;
+    }
+    .mobile-nav__item a {
+        font-size: 20px;
+    }
+} */
 
 
 /* Alternative way to display elements using the classList property in JavaScript */
