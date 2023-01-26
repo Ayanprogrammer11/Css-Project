@@ -2,6 +2,17 @@
     padding-top: 2rem;
 } */
 
+@font-face {
+    font-family: "AnonymousPro";
+    src: url("./anonymousPro-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "AnonymousPro";
+    src: url("./anonymousPro-Bold.ttf") format("truetype");
+    font-weight: 700;
+}
+
 .background {
     background: url("../images/plans-background.jpg") center / cover;
     position: fixed;
@@ -53,9 +64,12 @@
 .package__info {
     padding: 1rem;
     border: 1px solid #0e4f1f;
-    font-size: 1.25rem;
+    /* font-size: 1.25rem; */
     color: #0e4f1f;
     background: white;
+    /* font-family: "AnonymousPro", sans-serif;
+    font-weight: 700; */
+    font: 700 1.25rem "AnonymousPro", sans-serif;
 }
 
 .clearfix {

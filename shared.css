@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Anton");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,400,900");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
 
 /* Global Styles */
 
@@ -37,13 +40,13 @@ main {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1;
+    z-index: 60;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.main-header > div {
-    display: inline-block;
-    vertical-align: middle;
-}
+
 
 /* Toggle Mobile Nav button */
 
@@ -73,41 +76,27 @@ main {
     color: #0e4f1f;
     font-weight: bold;
     text-decoration: none;
-    /* font-size: 1.375rem; */
-    height: 2.5rem;
-    display: inline-block;
-    /* height: 1.375rem; */
-    vertical-align: middle;
 }
 
 .main-header__brand img {
-    height: 100%;
+    height: 2.5rem;
+    vertical-align: middle;
 }
 
 .main-nav {
     display: none;
-    text-align: right;
-    width: calc(100% - 44px);
-    vertical-align: middle;
 }
 
-@media (min-width: 40rem) {
-    .main-nav {
-        display: inline-block;
-    }
-    .toggle-button {
-        display: none;
-    }
-}
+
 
 .main-nav__items {
     margin: 0;
     padding: 0;
     list-style: none;
+    display: flex;
 }
 
 .main-nav__item {
-    display: inline-block;
     margin: 0 0.625rem;
 }
 
@@ -149,7 +138,7 @@ main {
     z-index: 101;
     position: fixed;
     height: 100vh;
-    width: 50%;
+    width: 80%;
     background: white;
     top: 0;
     left: 0;
@@ -157,11 +146,13 @@ main {
 
 .mobile-nav__items {
     list-style: none;
-    margin: 14rem auto;
     padding: 0;
-    text-align: center;
-    width: 90%;
+    width: 100%;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .mobile-nav__item {
@@ -213,7 +204,12 @@ main {
     font-weight: bolder;
 }
 
-
+.button[disabled] {
+    cursor: not-allowed;
+    border: #a1a1a1;
+    background: #ccc;
+    color: #a1a1a1;
+}
 
 
 /* Footer */
@@ -228,16 +224,17 @@ main {
     list-style: none;
     margin: 0;
     padding: 0;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .main-footer__link {
-    display: inline-block;
+    margin: 0.5rem 0;
 }
 
 .main-footer__link a {
     text-decoration: none;
-    margin: 0 1.25rem;
     color: white;
     font-weight: bold;
 }
@@ -269,3 +266,20 @@ main {
 /* .open {
     display: block !important;
 } */ 
+
+
+@media (min-width: 40rem) {
+    .main-nav {
+        display: flex;
+    }
+    .toggle-button {
+        display: none;
+    }
+    .main-footer__links {
+        flex-direction: row;
+        justify-content: center;
+    }
+    .main-footer__link {
+        margin: 0 1rem;
+    }
+}
